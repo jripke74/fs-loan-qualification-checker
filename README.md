@@ -1,0 +1,1 @@
+# fs-loan-qualification-checker
